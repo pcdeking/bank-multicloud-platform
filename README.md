@@ -10,6 +10,12 @@
 ![NodeJS](https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=node.js)
 ![React](https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react)
 
+
+
+https://github.com/user-attachments/assets/8eefcde3-8530-4ddd-a6ff-0698a53dc92b
+
+<img width="1536" height="1024" alt="dbc3e593-8add-4a89-bac9-1ab0e9896076" src="https://github.com/user-attachments/assets/2941ddd2-28d8-4aad-a91f-969c12d471f4" />
+
 ---
 
 # 📖 Project Overview
@@ -45,7 +51,10 @@ The main objective of this project was to gain hands-on experience building secu
 
 > **Architecture Diagram**
 
-Replace this section with your architecture image.
+
+
+https://github.com/user-attachments/assets/54207acf-4a56-42f0-96a3-3611fe602153
+
 
 ```text
 Users
@@ -79,12 +88,7 @@ Azure Database Layer
 
 # 🎥 Architecture Walkthrough
 
-Upload the architecture video to GitHub and include the link here.
 
-```
-Architecture Video:
-https://github.com/<your-username>/<repo>/assets/xxxxxxxx
-```
 
 ---
 
